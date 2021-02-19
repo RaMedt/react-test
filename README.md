@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# This is a test project with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Targets are the integration of P5.js, Tailwindcss and other libraries
+
+The following is standard by React >>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 ## Available Scripts
 
