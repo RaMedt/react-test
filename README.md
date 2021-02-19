@@ -1,6 +1,6 @@
 # This is a test project with React
 
-Targets are the integration of P5.js, Tailwindcss and other libraries
+Targets are the integration of P5.js, Tailwindcss (requiring Craco) and other libraries
 
 The following is standard by React >>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
